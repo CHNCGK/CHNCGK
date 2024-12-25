@@ -10,9 +10,7 @@
 - **Performance Optimization**: Specializing in optimizing game and simulation performance for smooth, high-fidelity experiences across a range of devices.
 
 ## 📫 How to Reach Me  
-- GitHub: [@Mr.Boatman](https://github.com/CHNCGK)  
-- LinkedIn: [@chncgk](https://linkedin.com/in/chncgk)  
-- Email: [chncgk@example.com](mailto:chncgk@example.com)
+Wandering on the edge of the internet, walking among ordinary people, so it depends on fate
 
 ## 😄 Pronouns  
 He/Him
