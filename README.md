@@ -1,22 +1,21 @@
-## 👋 Hi, I’m @Mr.Boatman
+# 👋 Hi, I’m @Mr.Boatman
 
-🔧 **About Me**  
-I’m a passionate Unreal Engine developer with a focus on creating immersive and interactive experiences using **Unreal Engine 5 (UE5)**. From photorealistic environments to advanced gameplay mechanics, I love leveraging UE5’s powerful features like Nanite, Lumen, and MetaHuman to bring my creative visions to life. Whether it’s building next-gen games, virtual production, or interactive simulations, I thrive in the world of real-time 3D development.
+## 🔧 Skills  
+- **Unreal Engine 5 (UE5)**: Proficient in creating immersive, interactive experiences using **UE5** features like Nanite, Lumen, MetaHuman, World Partition, Chaos Physics, and advanced animation tools.  
+- **Game Development**: Experienced in developing next-gen games, virtual production, and interactive simulations, focusing on performance optimization, custom shaders, and AI integration.  
+- **Multiplayer Game Development**: Expertise in real-time networking, multiplayer architecture, and optimizing online gaming environments.  
+- **Game Reverse Engineering**: Skilled in analyzing and reversing game code to uncover exploits and vulnerabilities.  
+- **Server Penetration Testing**: Knowledgeable in **ethical hacking** techniques to identify and mitigate security risks in online game servers and applications.  
+- **AI Integration**: Building dynamic game worlds with AI systems for enhanced interactivity and intelligent behaviors.  
+- **Performance Optimization**: Specializing in optimizing game and simulation performance for smooth, high-fidelity experiences across a range of devices.
 
-🌱 **Currently Learning**  
-I’m currently mastering **UE5’s advanced features** like World Partition, Chaos Physics, and the new Animation Tools. I'm also working on creating custom shaders, optimizing performance, and integrating AI for more dynamic and interactive game worlds. Additionally, I’m diving into **multiplayer game development** and exploring the possibilities of real-time networking with UE5.
+## 📫 How to Reach Me  
+- GitHub: [@Mr.Boatman](https://github.com/CHNCGK)  
+- LinkedIn: [@chncgk](https://linkedin.com/in/chncgk)  
+- Email: [chncgk@example.com](mailto:chncgk@example.com)
 
-💞 **Looking to Collaborate On**  
-I’m open to collaborating on **UE5-based projects**, particularly in areas like game development, virtual reality (VR), or cinematic production. If you’re working on an exciting project using Unreal Engine 5 and need a collaborator, feel free to reach out!
-
-📫 **How to Reach Me**  
-You can reach me via my [GitHub](https://github.com/CHNCGK), or connect with me on [LinkedIn](https://linkedin.com/in/chncgk). Feel free to email me at chncgk@example.com if you'd like to discuss potential collaborations or share ideas.
-
-😄 **Pronouns**  
+## 😄 Pronouns  
 He/Him
 
-⚡ **Fun Fact**  
-I’m not only passionate about coding in UE5, but I also enjoy experimenting with real-time rendering techniques, motion capture, and creating interactive VR experiences. In my free time, I like to explore the latest tech trends in gaming and virtual production to push the limits of what’s possible!
-
----
-
+## ⚡ Fun Fact  
+When I’m not coding in **UE5**, I love experimenting with **real-time rendering**, **motion capture**, and creating interactive **VR experiences**. I also keep up with the latest trends in **gaming** and **virtual production**, always exploring new ways to innovate and push boundaries!
